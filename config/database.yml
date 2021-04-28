@@ -1,0 +1,14 @@
+default: &default
+development:
+  database: Commercial
+  adapter: mysql2
+  #encoding: utf8
+  pool: 30
+  host: localhost
+  #host: ndindb.c65welxkglql.ap-south-1.rds.amazonaws.com
+  #username: nd_admn
+  #password: WuhQiIK3qYbBUIPRhx4r
+  username: root
+  password: Shyamala
+  timeout: 5000
+  socket: /var/run/mysqld/mysqld.sock

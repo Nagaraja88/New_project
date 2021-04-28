@@ -1,0 +1,1 @@
+Shop.create(title: 'Hello world',content: 'lorem ipso',slug: 'hello-world')
